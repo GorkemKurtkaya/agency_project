@@ -13,7 +13,7 @@ Uygulamayı forklayabilir veya dosyaları bilgisayarınıza indirebilirsiniz. Uy
 Örnek **.env** dosyası şu şekilde olabilir.
 
 ```
-DB_URI=mongodb://localhost:27017/Freelancer
+DB_URI=mongodb://localhost:27017/(Proje İsminiz)
 PORT=3000
 CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
